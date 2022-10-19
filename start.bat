@@ -1,0 +1,1 @@
+start E:\Bases-Fivem\build\FXServer.exe +exec ../base-limpa/server.cfg
